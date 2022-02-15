@@ -20,7 +20,7 @@ text-shadow: 2px 2px 2.5px #990000;
 
 #poema{
 position: absolute;
-margin-top: auto;
+margin-top: 55px;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
