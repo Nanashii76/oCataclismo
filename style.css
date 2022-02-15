@@ -1,0 +1,48 @@
+body{
+background-color: white;
+color: white;
+background-image: url(_img/XEDA.gif);
+background-attachment: scroll;
+background-position: center;
+background-size: 100%;
+background-repeat: no-repeat;
+
+}
+
+#princ{
+display: block;
+text-align: center;
+margin-top: 175px;
+font-size: 32px;
+font-family: 'Syne Tactile', cursive;
+text-shadow: 2px 2px 2.5px #990000;
+}
+
+#poema{
+position: absolute;
+margin-top: auto;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+
+}
+.container{
+position: relative;
+text-align: center;
+width: 600px;
+height: 600px;
+opacity: 0.5;
+
+
+}
+
+a{
+color: white;
+text-decoration: none;
+}
+
+h2{
+opacity: 0.3;    
+}
+
